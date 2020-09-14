@@ -1,0 +1,2 @@
+# JavaSEBasicKnowledge
+这是个人学习JavaSE以及JavaWeb的一个学习记录资料
