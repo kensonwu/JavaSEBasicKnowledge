@@ -7,7 +7,7 @@ import java.util.Comparator;
  * @author wuchun
  *
  */
-public class StringCompare implements Comparator<String> {
+	public class StringCompare implements Comparator<String> {
 
 	/**
 	 * 按长度比较大小
@@ -15,8 +15,6 @@ public class StringCompare implements Comparator<String> {
 	 * 正数 >
 	 * 负数 <
 	 * 0 ==
-	 * 
-	 * 
 	 */
 	@Override
 	public int compare(String o1, String o2) {
